@@ -1,0 +1,10 @@
+client_body_temp/
+fastcgi_temp/
+logs/
+proxy_temp/
+scgi_temp/
+uwsgi_temp/
+.gitignore
+build.docker-image.sh
+Dockerfile
+README.md
